@@ -1,0 +1,9 @@
+/* hover effects for buttons */
+div.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+div.button:hover {
+    opacity: 0.5;
+}
