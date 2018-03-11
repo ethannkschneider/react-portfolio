@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const Contact = () => (
   <div>
@@ -6,7 +6,7 @@ const Contact = () => (
     <p>
     Here are some links to click:
     </p>
-    <a href='www.clickhole.com' target='_blank'>A link</a>
+    <a href='http://www.clickhole.com' target='_blank' rel='noopener noreferrer'>A link</a>
   </div>
 );
 

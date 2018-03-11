@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const Welcome = () => (
-  <div>
-    <h1>Welcome</h1>
-    <h4>To this page</h4>
-  </div>
+  <main className="pa3 pa5-ns">
+    <h1 className="mt2 mb0 baskerville i fw1 f1">Welcome</h1>
+  </main>
+
 );
 
 export default Welcome;

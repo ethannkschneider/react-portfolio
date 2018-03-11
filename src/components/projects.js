@@ -1,7 +1,7 @@
 // NOTE: Make a reusable <PageWrapper> component and make things like
 // headers and links be children.
 
-import React, { Component } from 'react';
+import React from 'react';
 
 const Projects = () => (
   <div>
